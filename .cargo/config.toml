@@ -1,0 +1,5 @@
+[alias]
+# cargo t p0001_two_sum  ==  cargo test --bin p0001_two_sum
+t = "test --bin"
+# cargo r p0001_two_sum  ==  cargo run --bin p0001_two_sum
+r = "run --bin"
